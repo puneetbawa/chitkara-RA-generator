@@ -9,8 +9,6 @@ import csv
 
 total_marks=40 #change the total marks
 
-#developed by: PUNEET BAWA, Chitkara University
-
 def count_students(csv_file, column_index):
     # Dictionary to store the count for each percentage range
     count = {
